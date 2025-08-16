@@ -34,7 +34,15 @@ Asegúrate de contar con los siguientes requisitos antes de comenzar:
 2. **Instalar la librería oficial de OVH para Python**:
 
     ```bash
-    pip3 install ovh
+    pip install ovh
+    ```
+
+---
+3. **Instalar otras librerias necesarias**:
+
+    ```bash
+    pip install requests
+    pip install python-dotenv
     ```
 
 ---
