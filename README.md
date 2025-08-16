@@ -2,7 +2,7 @@
 
 
 ![Name](https://img.shields.io/badge/Name-OVHDNSUpdaterScript-red)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/codeforusers/ovh-dns-updater/releases)
+[![Version](https://img.shields.io/badge/version-v25.08.15-blue)](https://github.com/codeforusers/ovh-dns-updater/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
 
 
